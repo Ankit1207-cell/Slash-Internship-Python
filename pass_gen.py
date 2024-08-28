@@ -30,7 +30,7 @@ if __name__ == "__main__":
     
     random.shuffle(s)
 
-    print("".join(s[0:length]))
+ 
 
     
     
